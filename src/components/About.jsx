@@ -3,7 +3,7 @@ import myPic from "../components/mypic.jpeg"; // Adjust path if necessary
 
 const About = () => {
   return (
-    <section id="about" className="py-12 bg-[#0D0D0D] text-white">
+    <section id="about" className="pb-12 bg-[#0D0D0D] text-white">
       <div className="container mx-auto px-6">
         <div className="flex flex-col md:flex-row items-center gap-12">
           <div className="md:w-1/3">
