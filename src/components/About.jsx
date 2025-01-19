@@ -16,9 +16,9 @@ const About = () => {
           <div className="md:w-2/3">
             <h2 className="text-3xl font-bold mb-6">About Me</h2>
             <p className="text-gray-300 leading-relaxed">
-              Hey there👋 I'm Manoj. I'm currently working as a Software
-              Engineer at Genpact. I've also worked as an Intern at IBM.Having
-              3+ years of industry experience, I am deeply passionate about
+              Hey there👋 I'm Manoj. I'm currently working as a Senior Software
+              Engineer at Eli Lilly (Client) for ACL Digital. Having
+              3+ years of industry experience in MNC's like Genpact & IBM , I am deeply passionate about
               designing and developing websites and applications that address
               real-world challenges and deliver tangible benefits. I love
               building websites/apps that have real world use cases. I am open
